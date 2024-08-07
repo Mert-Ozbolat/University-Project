@@ -9,4 +9,4 @@ This project is a university website created using HTML and CSS. The website inc
 **Contact:** Address, phone numbers, and email information of the university.
 
 # 🖼️Preview
-![](./University_gif.gif)# University-Project
+![](./University_gif.gif)
