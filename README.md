@@ -3,10 +3,13 @@ This project is a university website created using HTML and CSS. The website inc
 
 # 🚀Features
 
-**Home Page:** General information about the university and important announcements.
-**Academic Programs:** Introduction to undergraduate, graduate, and doctoral programs.
-**Faculties:** Detailed introduction to each faculty and their staff.
-**Contact:** Address, phone numbers, and email information of the university.
+- **Home Page:** General information about the university and important announcements.
+  
+- **Academic Programs:** Introduction to undergraduate, graduate, and doctoral programs.
+  
+- **Faculties:** Detailed introduction to each faculty and their staff.
+  
+- **Contact:** Address, phone numbers, and email information of the university.
 
 # 🖼️Preview
 ![](./University_gif.gif)
